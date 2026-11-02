@@ -1,0 +1,2 @@
+[console_scripts]
+bracket-validate = bracket_validator.validator:main

@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+src/bracket_validator/__init__.py
+src/bracket_validator/validator.py
+src/bracket_validator_andriitrishch.egg-info/PKG-INFO
+src/bracket_validator_andriitrishch.egg-info/SOURCES.txt
+src/bracket_validator_andriitrishch.egg-info/dependency_links.txt
+src/bracket_validator_andriitrishch.egg-info/entry_points.txt
+src/bracket_validator_andriitrishch.egg-info/top_level.txt
+tests/test_validator.py
